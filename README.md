@@ -1,1 +1,1 @@
-Iot Based Smart Agricultural System
+Iot Based Smart Agricultural System for gardening and farming
